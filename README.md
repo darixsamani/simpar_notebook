@@ -1,5 +1,5 @@
 # simpar
-this is a simple paragraph recognition based on the morphology operator
+this is a simple paragraph recognitive based on the morphology operator
 
 
 
