@@ -2,7 +2,7 @@
 this is a simple paragraph recognition based on the morphology operator
 
 
-
-## Example
-
-![Exemple images](./image4_paragrap_recognitive.jpg)
+## Screen
+Image                  |  Image recognized
+:-------------------------:|:-------------------------:
+![Exemple images](./data/image/simple_a26.jpg)  |  ![Exemple images](./image4_paragrap_recognitive.jpg)
